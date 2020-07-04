@@ -1,1 +1,2 @@
 # AlgoSolutions
+Algorthms and Solutions
